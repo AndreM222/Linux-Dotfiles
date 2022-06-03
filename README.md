@@ -1,7 +1,7 @@
 # CozyNight [i3]
 
 <p>
-<img align='center' width='360' src="LinuxDotfilesPreview.png">
+<img align='center' src="LinuxDotfilesPreview.png">
 </p>
 
 ## Dependecies
