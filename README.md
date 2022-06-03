@@ -31,8 +31,8 @@ The file .zshrc contains the alias for shortcuts
 - [DejaVuSansMono Nerd Font](https://www.nerdfonts.com/font-downloads) - Font
 - [Symbols Nerd Font](https://www.nerdfonts.com/font-downloads) - Icons
 
-`\f` - Telescope Find Files
-`\r` - Telescope Live Grep
-`\\` - Telescope Buffers
-`\h` - Telescope Help Tags
-`\t` - Neovim Tree
+`\ + f` - Telescope Find Files
+`\ + r` - Telescope Live Grep
+`\ + \` - Telescope Buffers
+`\ + h` - Telescope Help Tags
+`\ + t` - Neovim Tree
