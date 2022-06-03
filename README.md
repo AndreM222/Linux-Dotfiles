@@ -31,6 +31,8 @@ The file .zshrc contains the alias for shortcuts
 - [DejaVuSansMono Nerd Font](https://www.nerdfonts.com/font-downloads) - Font
 - [Symbols Nerd Font](https://www.nerdfonts.com/font-downloads) - Icons
 
+## Neovim Keybindings
+
 `\ + f` - Telescope Find Files
 
 `\ + r` - Telescope Live Grep
