@@ -11,3 +11,13 @@
 - Neovim
 - Picom
 - Alacritty
+
+# Neovim Plugins
+
+- Lualine
+- nvim-Web-Devicons
+- Nvim-Tree
+- Dracula
+- LSPConfig
+- Plenary
+- Telescope
