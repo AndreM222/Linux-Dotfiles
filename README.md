@@ -1,10 +1,10 @@
-## CozyNight
+# CozyNight
 
 <p>
 <img align='center' width='360' src="LinuxDotfilesPreview.png">
 </p>
 
-# Dependecies
+## Dependecies
 
 - Neofetch
 - Polybar
@@ -12,7 +12,7 @@
 - Picom
 - Alacritty
 
-# Neovim Plugins
+## Neovim Plugins
 
 - Lualine
 - nvim-Web-Devicons
