@@ -12,6 +12,10 @@
 - [Picom](https://wiki.archlinux.org/title/Picom) - Transparency and Round Borders
 - [Alacritty](https://github.com/alacritty/alacritty) - Terminal
 
+````
+The file .zshrc contains the alias for shortcuts
+````
+
 ## Neovim Plugins
 
 - [Lualine](https://github.com/nvim-lualine/lualine.nvim) - Neovim Bar
