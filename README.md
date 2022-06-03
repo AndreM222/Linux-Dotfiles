@@ -1,5 +1,5 @@
 ## CozyNight
 
 <p>
-<img align='middle' width='360' src="LinuxDotfilesPreview.png">
+<img align='center' width='360' src="LinuxDotfilesPreview.png">
 </p>
