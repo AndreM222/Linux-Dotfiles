@@ -25,3 +25,14 @@ The file .zshrc contains the alias for shortcuts
 - [LSPConfig](https://github.com/neovim/nvim-lspconfig) - Keys Configuration
 - [Plenary](https://github.com/nvim-lua/plenary.nvim) - Plenary
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim) - Telescope
+
+## Fonts
+
+- [DejaVuSansMono Nerd Font](https://www.nerdfonts.com/font-downloads) - Font
+- [Symbols Nerd Font](https://www.nerdfonts.com/font-downloads) - Icons
+
+`\f` - Telescope Find Files
+`\r` - Telescope Live Grep
+`\\` - Telescope Buffers
+`\h` - Telescope Help Tags
+`\t` - Neovim Tree
