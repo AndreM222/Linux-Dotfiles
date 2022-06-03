@@ -42,3 +42,12 @@ The file .zshrc contains the alias for shortcuts
 `\ + h` - Telescope Help Tags
 
 `\ + t` - Neovim Tree
+
+`````
+Neovim Callouts
+
+- vi
+- neovim
+- vim
+
+`````
