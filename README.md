@@ -14,10 +14,10 @@
 
 ## Neovim Plugins
 
-- [Lualine]()
-- [nvim-Web-Devicons]()
-- [Nvim-Tree]()
-- [Dracula]()
-- [LSPConfig]()
-- [Plenary]()
-- [Telescope]()
+- [Lualine](https://github.com/nvim-lualine/lualine.nvim)
+- [nvim-Web-Devicons](https://github.com/kyazdani42/nvim-web-devicons)
+- [Nvim-Tree](https://github.com/kyazdani42/nvim-tree.lua)
+- [Dracula](https://draculatheme.com/)
+- [LSPConfig](https://github.com/neovim/nvim-lspconfig)
+- [Plenary](https://github.com/nvim-lua/plenary.nvim)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
