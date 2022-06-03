@@ -6,4 +6,8 @@
 
 # Dependecies
 
-. Neofetch
+- Neofetch
+- Polybar
+- Neovim
+- Picom
+- Alacritty
